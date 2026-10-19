@@ -1,3 +1,7 @@
-streamlit
-groq
-pandas
+streamlit>=1.40,<2
+groq>=0.18,<1
+pandas>=2.2,<3
+python-docx>=1.1,<2
+pypdf>=5,<7
+openpyxl>=3.1,<4
+xlsxwriter>=3.2,<4
